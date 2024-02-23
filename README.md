@@ -8,3 +8,4 @@
 <h3>Steps:</h3>
 <li>Go to the habitapp directory where main.py is located and run the following command: pyinstaller main.py</li>
 <li>Copy the init.json in the created directory: habitapp\dist\main. The file must be located next to the installer</li>
+<li>Run main.exe</li>
