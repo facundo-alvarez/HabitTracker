@@ -18,3 +18,7 @@
 
 <h3>Steps to run:</h3>
 <li>Go to the \habitapp directory, open the terminal and run the following command: pytest</li>
+
+
+<h2>Usage:</h2>
+<p>Based on a console application, implements a menu with different options. To select the option, input the desired number and press enter. To store the data after a session, the option 15 must be execute before exit.</p>
