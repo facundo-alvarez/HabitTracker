@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "habitapp", "habitapp\habitapp.pyproj", "{9F98F5FD-CAE8-4464-ADC6-BE4E29862A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F98F5FD-CAE8-4464-ADC6-BE4E29862A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F98F5FD-CAE8-4464-ADC6-BE4E29862A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC69E39-F589-444B-822D-A58692250DFB}
+	EndGlobalSection
+EndGlobal
